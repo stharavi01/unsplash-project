@@ -1,5 +1,5 @@
-
-## Steps
+<h2> Unsplash React Project </h2>
+<a href="https://react-unsplash-project.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 #### Setup
 
@@ -61,9 +61,7 @@ body {
 
 Create a form with an input and a submit button. The input should have the following attributes: type='text', name='search', placeholder='cat', and className='form-input search-input'. When the user submits the form, access (for now log)the input value.
 
-
 [Unsplash Website](https://unsplash.com/)
-
 
 [Unsplash API](https://unsplash.com/developers)
 
