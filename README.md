@@ -1,4 +1,6 @@
 <h2> Unsplash React Project </h2>
+<p>The Unsplash Image Project is a user-friendly web application that utilizes the Unsplash API, React Query, and Axios for efficient image retrieval. With a toggleable dark mode and a controlled search form, users can seamlessly explore a rich collection of images by inputting search queries. To safeguard sensitive API keys, the project employs environment variables, ensuring both user data and application security.</p>
+
 <a href="https://react-unsplash-project.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 #### Setup
